@@ -1,0 +1,15 @@
+Assistant checkpoint: Added local setup guide and environment template
+
+Assistant generated file changes:
+- LOCAL_SETUP.md: Add comprehensive local setup guide
+- README.md: Add local setup section at the beginning
+- .env.example: Add environment template file
+
+---
+
+User prompt:
+
+but you know for the purpose of getting selected, i can't show replit
+
+Replit-Commit-Author: Assistant
+Replit-Commit-Session-Id: daf97f34-7869-40ab-ae48-7fd3f613b31e
